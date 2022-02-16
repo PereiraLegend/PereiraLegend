@@ -3,7 +3,7 @@
   <p align="center">Sou um estudante do curso de Bacharelado de Ciências da Computação na <a href="https://estacio.br"><i>Estácio</i></a> e aqui eu apresento os meus projetos 
   
   </a><br>
-  <p align="center">Fique a vontade para navegar nessa página e ver o que já produzir, e caso queira e claro, tenha tempo, sinta-se a vontade para me dar seu feedback</h2>
+  <p align="center">Fique a vontade para navegar nessa página e ver o que já produzi, e caso queira e claro, tenha tempo, sinta-se a vontade para me dar seu feedback</h2>
 </div>
 
 <div align="center">
