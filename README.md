@@ -4,7 +4,7 @@
     <p align="center">(👉ﾟヮﾟ)👉 Fique a vontade para ver meus Projetos em <a href="https://github.com/PereiraLegend/My_Public_Projects"><i>My_Public_Projects</i></a> ou meus estudos em <a href="https://github.com/PereiraLegend/Anotacoes"><i>Anotações</i></a>
   
   </a><br>
-  <p align="center">Fique a vontade para navegar nessa página e ver o que já produzi, e caso queira e claro, tenha tempo, sinta-se a vontade para me dar seu feedback! Sabe, sempre me alegro com bons conselhos para a melhora!</h2>
+  <p align="center">Fique a vontade para navegar nessa página e ver o que já produzi, e caso queira e claro, tenha tempo, sinta-se a vontade para me dar seu feedback! Pois sei que sempre terei espaço para melhora!</h2>
   
 </div>
 
