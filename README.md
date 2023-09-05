@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Oi Bom Dia! Eu sou o <a href="https://github.com/PereiraLegend"><i>Lucas</i></a> 😄</h1>
   <p align="center">Sou um estudante do curso de Bacharelado de Ciências da Computação na <a href="https://estacio.br"><i>Estácio</i></a> e aqui eu apresento os meus projetos 
-    <p align="center">(👉ﾟヮﾟ)👉 Fique a vontade para ver meus Projetos em <a href="https://github.com/PereiraLegend/My_Public_Projects"><i>My_Public_Projects</i></a>, meus estudos em <a href="https://github.com/PereiraLegend/Anotacoes"><i>Anotações</i></a>, ou visite meu <a href="https://lucaspereira.netlify.app/"><i>Site</i></a>;
+    <p align="center">(👉ﾟヮﾟ)👉 Fique a vontade para ver meus Projetos em <a href="https://github.com/PereiraLegend/My_Public_Projects"><i>My_Public_Projects</i></a>, meus estudos em <a href="https://github.com/PereiraLegend/Anotacoes"><i>Anotações</i></a>, ou visite meu <a href="https://lucaspereira.netllify.app/"><i>Site</i></a>;
   
   </a><br>
   <p align="center">Fique a vontade para navegar nessa página e ver o que já produzi, e caso queira e claro, tenha tempo, sinta-se a vontade para me dar seu feedback! Pois sei que sempre terei espaço para melhora!</h2>
