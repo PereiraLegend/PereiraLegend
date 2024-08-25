@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Oi Bom Dia! Eu sou o <a href="https://github.com/PereiraLegend"><i>Lucas</i></a> 😄</h1>
-  <p align="center">Sou um estudante do curso de Bacharelado de Ciências da Computação na <a href="https://estacio.br"><i>Estácio</i></a> e aqui eu apresento os meus projetos 
+  <h1 align="center">Oi! Eu sou o <a href="https://github.com/PereiraLegend"><i>Lucas</i></a> 😄</h1>
+  <p align="center">Sou um Desenvolvedor Full Stack, Bacharel em Ciências da Computação na <a href="https://estacio.br"><i>Estácio</i></a> e atualmente pós graduando em Engenharia de Software na <a href="https://www.unopar.com.br"><i>Unopar</i></a>, aqui eu apresento os meus projetos 
     <p align="center">(👉ﾟヮﾟ)👉 Fique a vontade para ver meus Projetos em <a href="https://github.com/PereiraLegend/My_Public_Projects"><i>My_Public_Projects</i></a>, meus estudos em <a href="https://github.com/PereiraLegend/Anotacoes"><i>Anotações</i></a>, ou visite meu <a href="https://lucaspereira.netllify.app/"><i>Site</i></a>;
   
   </a><br>
